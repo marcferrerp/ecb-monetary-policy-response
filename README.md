@@ -1,1 +1,1 @@
-# ecb-rates-inflation
+ECB Policy Rates and Euro Area Inflation
