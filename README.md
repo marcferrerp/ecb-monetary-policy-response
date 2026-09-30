@@ -1,1 +1,1 @@
-ECB Policy Rates and Euro Area Inflation
+How the ECB Responded to the 2021–2023 Inflation Surge
