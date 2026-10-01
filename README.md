@@ -28,12 +28,12 @@ Daily series are converted to monthly averages to match the frequency of the HIC
   came in July 2022, twelve months later. The DFR peaked at 4.00% in September 2023,
   eleven months after the inflation peak.
 - **Deeply negative real rates:** the ex post real rate (DFR minus HICP inflation) reached
-  around −9.9% in October 2022, and only turned positive in October 2023.
+  around −9.8% in October 2022, and only turned positive in October 2023.
 - **Full cycle:** since 2015 the DFR has changed 23 times: 11 cuts and 12 hikes, including
   two hikes in June and September 2026 as inflation picked up again to 3.2%.
-- **€STR–DFR spread:** in a system of large excess liquidity, the €STR trades below the DFR.
-  The spread widened to around −10 bp in 2023 and has narrowed to around −6 bp in 2026,
-  as excess liquidity declines.
+- **€STR–DFR spread:** in a system of large excess liquidity, the €STR trades below the DFR,
+  by 8.5 bp on average since 2023. The spread widened to around −10 bp in 2023 and has
+  narrowed to around −6 bp in 2026, as excess liquidity declines.
 
 ![Ex post real policy rate](figures/real_rate.png)
 
