@@ -19,7 +19,7 @@ def get_ecb_series(series_key, start="2015-01-01"):
 
     # 4. If the download failed, stop with a clear error message
     if response.status_code != 200:
-        raise ValueError(...)
+           raise ValueError(f"Download failed for {series_key} (status {response.status_code})")
 
     # 5. Read the CSV text into a DataFrame
     df = pd.read_csv(io.StringIO(response.text))
