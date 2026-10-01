@@ -25,7 +25,7 @@ def get_ecb_series(series_key, start="2015-01-01"):
     df = pd.read_csv(io.StringIO(response.text))
 
     # 6. Build a Series: dates as the index, values as floats, key as the name
-    values = df["OBS_VALUE"]
+    values = df["OBS_VALUE"].values
     dates = pd.to_datetime(df["TIME_PERIOD"])
     series = pd.Series(values, index = dates, name = series_key)
     return series
